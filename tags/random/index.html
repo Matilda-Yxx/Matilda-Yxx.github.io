@@ -7,10 +7,10 @@
 
     
 
-    <title>post | Meow@B612</title>
+    <title>Tag: random | Meow@B612</title>
     <meta name="author" content="Matilda Y" />
     <meta name="keywords" content="" />
-    <meta name="description" content="Welcome, this is my very first blog post!" />
+    <meta name="description" content="" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
 
@@ -60,7 +60,7 @@
                 <span class="nav-text">星屑</span>
             </a>
         
-            <a class="nav-item" href="/tags">
+            <a class="nav-item active" href="/tags">
                 <span class="nav-text">标签</span>
             </a>
         
@@ -84,8 +84,6 @@
     <div id="aside-inner" class="aside-inner">
         <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit"><i class="icon-search-stroke"></i></button><input type="hidden" name="sitesearch" value="http://meowb612.xyz"></form>
 
-        
-        
         
         
 
@@ -128,43 +126,50 @@
 
         <div id="content" class="content">
             <div id="wrapper" class="wrapper" style="max-width: 800px">
-                <article class="article" itemscope itemprop="blogPost">
-    
-    <header class="article-header">
-        
-        <h1 itemprop="name">
-            post
-        </h1>
-        
-        <div class="article-meta clearfix">
-            <a class="article-date" href="http://meowb612.xyz/2021/10/30/post/index.html">
-    
-    <i class="icon-calendar vm"></i>
-    
-    <time class="vm" datetime="2021-10-30T14:57:20.000Z" itemprop="datePublished">2021-10-30</time>
-</a>
+                
 
-            
-<div class="article-tag-list">
-    <i class="icon-tag vm"></i>
-    <a class="article-tag-link" href="/tags/test/" rel="tag">test</a>
+
+<div class="page-hd">
+    random
+    <small>(1)</small>
 </div>
 
 
-        </div>
-    </header>
+
     
-    <section class="article-body markdown-body">
-        
-        <p>Welcome, this is my very first blog post!</p>
+    
+    
+    
+    
+    <section class="archives-wrap">
+    <div class="archive-year-wrap">
+    <a href="/archives/2021" class="page-hd">
+        2021
+    </a>
+    </div>
+    <ol class="archives">
+    
 
+    <li class="archive-section-item">
         
-    </section>
+<article class="archive-article archive-type-post">
+    <div class="archive-article-inner">
+        <header class="archive-article-header">
+            <a class="archive-article-link" href="/2021/10/30/article1/">Coucou!</a>
+            <span class="archive-article-date">
+                (<a class="article-date" href="/archives/2021/10">
+    
+    <time class="vm" datetime="2021-10-30T14:57:20.000Z" itemprop="datePublished">10/30</time>
+</a>
+)
+            </span>
+        </header>
+    </div>
 </article>
+    </li>
 
 
-
-<a id="pagenext" href="/2021/10/30/newpapername/" class="article-next" title="newpapername"><i class="icon-arrow-right"></i></a>
+</ol></section>
 
 
 
@@ -243,33 +248,6 @@
         });
     });
     </script>
-    
-        
-<script src="/js/scrollspy.min.js"></script>
-
-        <script type="text/javascript">
-        $(document.body).scrollspy({target: '#aside-inner'});
-
-        $(window).on('resize', function() {
-            var hw = $('#header').width();
-            var ww = $('#wrapper').width();
-            var space = ($(this).width() - hw - ww) / 2 / 2;
-
-            var pageprev = $('#pageprev');
-            var pagenext = $('#pagenext');
-            var avg = (pageprev.width() + pagenext.width()) / 2
-
-            if(space > avg) {
-                var len = space - avg / 2;
-                var styles = {position: 'fixed', top: '50%', marginTop: - (pageprev.width() + pagenext.width()) / 4}
-                pageprev.css($.extend({left: hw + len}, styles));
-                pagenext.css($.extend({right: len}, styles));
-            } else {
-                pageprev.removeAttr('style');
-                pagenext.removeAttr('style');
-            }
-        }).trigger('resize');
-        </script>
     
 
 </body>
