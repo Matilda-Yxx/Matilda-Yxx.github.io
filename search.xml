@@ -1,91 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>A Lime Tree</title>
-    <url>/2020/07/01/lime-tree/</url>
-    <content><![CDATA[<img src="/images/2019_lime.jpg" alt="I drew a lime tree, and wrote her a poem." width="600"/>
-1 July, 2020
-
-<p>I had almost nothing back then<br>Neither blossoms nor fruits<br>My leaves were dim and my branches bare<br>Then you took me home, and we had one another.</p>
-<p>I was happy and comfortable<br>Sitting in the nutritious, warm soil<br>No mores pests intruding my lovely siestas<br>There’s nothing else I’d ask for.</p>
-<p>But soon I started to feel <br>A bit lethargic, fatigued<br>As if part of my youth was drained.</p>
-<p>Still, I gave all I have<br>To permeate your house with aroma<br>And to grow the little green ones <br>Just to win your angel-like laughters<br>and delightful eyes. <br>Do you know that I love you so?</p>
-<p>Time gone by, and there came a day<br>we had a new home.<br>I was left in the balcony, the sky was bright<br>And my body blazed with refreshed vitality.<br>I realised by then, that all I had truly needed<br>was sunshine. Eternal sunshine.</p>
-<p>Polished, soft green leaves<br>start to crown my head<br>They gently swayed in the wind.<br>I knew that you were happy for me<br>And so was I, happy for you.<br>Because</p>
-<p>I see you<br>kissed her in the moonlight,<br>I see you<br>stunned at the mesmerising sunset<br>I see you<br>lost yourself with the piano<br>your silhouette bathed in the warm, amber light.</p>
-<p>Do you know that I love you so?<br>I think you do.</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>2021 - My Personal Infra Update Logs</title>
+      <link href="/2021/12/27/2021-personal-infra-update-log/"/>
+      <url>/2021/12/27/2021-personal-infra-update-log/</url>
+      
+        <content type="html"><![CDATA[<p>Personal infrastructure这个概念，最初是由一个朋友的blog接触到的（这位朋友其实也是援引了Stephen Wolfram的一篇<a href="https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/">文章</a>, 感兴趣的朋友们可以看看）。这个概念的字面意义已经非常清晰，所以我不再多做解释。Wolfram在我心里是个顶可爱的nerd！</p><p>2021年，我的personal infra发生了不少的变化。这些infra层面的改变，都或多或少给我的生活带来了令人欣喜的变化。写在这里，说不定对你会有些启发。</p><h3 id="个人财务"><a href="#个人财务" class="headerlink" title="个人财务"></a>个人财务</h3><p>Personal finance - I’d call it a “missing semster for your undergraduate education”. 有关个人财务管理的知识，对于每一个成年人都很重要。这一环在（至少是我所接受的）大学教育里是完全缺失的。如果父母没能给自己传授完整的个人财务经验，那么我们只能靠自己去学习探索。</p><p>我今年对于「个人财务」方面的探究，主要包括以下方面：</p><ul><li>基本的金融知识</li><li>消费习惯</li><li>保险配置</li><li>投资策略</li></ul><p>我会简单的逐一概述一下以上四点的内容。</p><h4 id="基本的金融知识"><a href="#基本的金融知识" class="headerlink" title="基本的金融知识"></a>基本的金融知识</h4><p>除非你是一个不需要用钱，完全脱离国与政府的nomad (no judgement here. I’ve deep respect for nomads and I love the film <em>Nomadland</em>.)，否则在日常生活中，你一定会用得到最基本的金融学/经济学知识。</p><p>宏观经济学：这里强推一个<a href="https://www.youtube.com/watch?v=PHe0bXAIuk0&t=871s&ab_channel=PrinciplesbyRayDalio">Educational video</a>。实话说，这个30min的动画视频所带给我的「认知提升」，可能远远胜于一门本科30小时课时的宏观经济学。</p><p>基本金融学：Coursera上有一个入门级的<a href="https://www.coursera.org/learn/financial-markets-global">金融学课程</a>，个人觉得质量很不错。这个课程大不必全部听完（作为一个普通人，即使不懂CAPM也不会太影响日常生活），大家自行甄别及挑选适合的topic来听就可。个人觉得诸如“health insurance的历史以及health insurance的重要性”这种topic，就非常实用且有趣。</p><h4 id="消费习惯"><a href="#消费习惯" class="headerlink" title="消费习惯"></a>消费习惯</h4><p>大家都知道「开源节流」的重要性，但很多时候我们还是会被各种营销策略冲昏头脑，花掉其实并不需要花的钱。</p><p>今年，在消费方面，我做出了两个比较大的努力：</p><ul><li>我几乎不再买花里胡哨的衣服了。买衣服基本都去MUJI/UNIQLO买些最基本款的衣服（喜欢的款式一般会同时多买几件）。我买衣服前一般会先问自己：“这件衣服在很多场合都可以穿吗？舒服吗？”如果连这两条都不能pass，我一般不会买。</li><li>吃饭。疫情刚开始的时候，几乎天天在家点外卖。后来发现自己做饭其实更好，因为营养更均衡，油盐更少，也省下很多钱和不必要的外卖包装垃圾。每周我会定时买grocery，提前大概规划一整周的食谱。每天晚上我会花两三分钟想一想需要提前解冻什么食材，方便第二天做饭。我现在几乎可以把炒两盘菜的时间控制在30min以内了。</li></ul><p>还有另一些琐碎的消费原则：</p><ul><li>买比较贵的东西之前，一般会考虑一下这个东西的rate of depreciation （折价速率）。比如相机，更新换代非常快，折价速度也相对很快。慎买。</li><li>能不打车就不打车了。「打车」的逻辑大部分时候是：「省时间」。可是我后来发现，我“节省”下来的时间，也不一定就能够被有效利用。所以我渐渐开始「能不打车就不打车」。</li><li>关于你为什么可能需要一张<a href="https://jlcollinsnh.com/2021/08/30/chainsaws-and-credit-cards/">信用卡</a>而不是只用借记卡。</li></ul><h4 id="保险配置"><a href="#保险配置" class="headerlink" title="保险配置"></a>保险配置</h4><ul><li>住院险和重疾险。如果你住在sg这样医疗费用非常高的城市，商业住院险是必须的。重疾险的必要程度，部分决定于你「承担风险」的能力。如果你（和你的家庭）有能力承担比较大的重疾风险（假使你长期卧病在床，家人也能够给予你长足的经济支持），那重疾险可能不是非常必要。但如果你一人在外单打独斗，且家境非常普通，那我觉得重疾险还是挺有必要的。</li></ul><h4 id="投资策略"><a href="#投资策略" class="headerlink" title="投资策略"></a>投资策略</h4><p>首先，如果你真的是24k gold投资小白，这里有一本非常简明易懂的保姆级理财入门书<a href="https://book.douban.com/subject/1095634/">小狗钱钱</a>。这本书会教给你，理财的重要性，以及非常基础的理财原则。</p><p>至于更具体的投资策略，这个非常因人而异了。As a reference, I myself is a <em>passive</em> and <em>long-term</em> investor. Passive意即非常不想在投资方面花太多精力，long-term意即投资时间线放的比较长：我的话，可能至少十年（超过一个大的市场周期）。如果你和我的投资风格及目标差不多，那不妨看看这个资源：</p><ul><li>一个非常适合长期+被动投资者的<a href="https://www.youtube.com/watch?v=T71ibcZAX3I&feature=youtu.be&ab_channel=TalksatGoogle">投资策略</a></li></ul><p>关于投资类书籍我还有一点点拙见想说：巴菲特，彼得林奇，查理芒格等等这些投资大师的书我也多多少少看了看。说实话，这些书更适合active &amp; professional investors。作为普通人，如果不想花太多精力在投资上，又不想因为通胀而使得资产缩水，那么一本《小狗钱钱》+ 一些靠谱的基金组合，可能真的就足够了。</p><h3 id="信息食谱"><a href="#信息食谱" class="headerlink" title="信息食谱"></a>信息食谱</h3><p>You are what you read.</p><p>You are the average of the 5 persons that you spend most of your time with.</p><p>我对于「信息摄入」的控制欲，远大于我对于「营养摄入」层面的控制欲。</p><h4 id="剔除各种app的社交功能"><a href="#剔除各种app的社交功能" class="headerlink" title="剔除各种app的社交功能"></a>剔除各种app的社交功能</h4><p>今年，我逐渐删了Instagram（现在我的ins只用来关注一些artists，完全没有了社交功能），关了朋友圈（我的微信现在已经完全退化为一个极简通讯工具），豆瓣上的碎碎念也逐渐搬到了如flomo这样的app里面（于是乎豆瓣退化为一款书影音标记工具）。做完了这一整套「social media pruning」，我觉得非常舒适。</p><p>但是这并不意味着我不在乎「社交」。我开始更加有意识的主动和我在乎的人保持连接；我的社交生活质量有了显著的提升。我的shallow contacts变少了，但我收获了更多真挚的友谊和真诚的交谈。我还开始定期制作vlog，打印和排版相册，更加认真的记录生活的美好。</p><h4 id="信息摄入渠道"><a href="#信息摄入渠道" class="headerlink" title="信息摄入渠道"></a>信息摄入渠道</h4><p>今年（非常克制地）开拓了一些新的信息摄入渠道，包括RSS和Podcasts。</p><p>个人最喜欢的RSS工具叫Reeder（很喜欢这个独立开发者的作品）。顺便推荐一个RSS<a href="http://www.ruanyifeng.com/blog/">订阅源</a>，分享给有点nerdy/geeky的你。</p><p>个人最喜欢的Podcast——作为科研人，久听不厌的，当属Lex Fridman。每次对科技/科研有些倦怠的时候，听听Lex的播客，会觉得从事技术行业还是很美好的。</p><p>其实就算是RSS或者Podcasts，都已经不是我主要的信息来源。最最值得我花时间的，是「经久不衰」「开拓认知」的信息源；比如经典的书籍，比如开拓眼界的网课，比如和对某一领域有过深耕的朋友聊天喝茶，等等。我一直相信，如果你对于这个世界的运作的「底层逻辑」有了更加清晰的认知，那么每日浮于表面的信息湍流，都不会再让你感到讶异。</p><p>There is no new thing under the sun.</p><h3 id="身心健康"><a href="#身心健康" class="headerlink" title="身心健康"></a>身心健康</h3><p>这个太重要了，朋友们。</p><p>如果你和我一样有着一份久坐（每日坐着超过8hrs）的工作，请尽量一周进行至少三次，每次时常至少30min的中高强度的运动。否则你的<a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005">健康风险</a>，很可能已经在无限逼近酗酒/抽烟/肥胖人群。</p><p>我今年还爱上了冥想打坐（其实也就是非常简单的数息，以及「一念起一念灭」的思想状态）。</p><p>定期log一下自己近期的成就，人生目标的调整，心理状态的变化，也是不错的习惯。</p><p>祝大家新年快乐！</p>]]></content>
+      
+      
       <categories>
-        <category>stardust</category>
+          
+          <category> stardust </category>
+          
       </categories>
-      <tags>
-        <tag>poems</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2021 - My Personal Infra Update Logs</title>
-    <url>/2021/12/27/2021-personal-infra-update-log/</url>
-    <content><![CDATA[<p>Personal infrastructure这个概念，最初是由一个朋友的blog接触到的（这位朋友其实也是援引了Stephen Wolfram的一篇<a href="https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/">文章</a>, 感兴趣的朋友们可以看看）。这个概念的字面意义已经非常清晰，所以我不再多做解释。Wolfram在我心里是个顶可爱的nerd！</p>
-<p>2021年，我的personal infra发生了不少的变化。这些infra层面的改变，都或多或少给我的生活带来了令人欣喜的变化。写在这里，说不定对你会有些启发。</p>
-<p>目录</p>
-<ul>
-<li><a href="#personal-finance">个人财务</a></li>
-<li><a href="#information-recipe">信息食谱</a></li>
-<li><a href="#health">身心健康</a></li>
-</ul>
-<h3 id="Personal-finance"><a href="#Personal-finance" class="headerlink" title="Personal finance"></a>Personal finance</h3><p>Personal finance - I’d call it a “missing semster for your undergraduate education”. 有关个人财务管理的知识，对于每一个成年人都很重要。这一环在（至少是我所接受的）大学教育里是完全缺失的。如果父母没能给自己传授完整的个人财务经验，那么我们只能靠自己去学习探索。</p>
-<p>我今年对于「个人财务」方面的探究，主要包括以下方面：</p>
-<ul>
-<li>基本的金融知识</li>
-<li>消费习惯</li>
-<li>保险配置</li>
-<li>投资策略</li>
-</ul>
-<p>我会简单的逐一概述一下以上四点的内容。</p>
-<h4 id="基本的金融知识"><a href="#基本的金融知识" class="headerlink" title="基本的金融知识"></a>基本的金融知识</h4><p>除非你是一个不需要用钱，完全脱离国与政府的nomad (no judgement here. I’ve deep respect for nomads and I love the film <em>Nomadland</em>.)，否则在日常生活中，你一定会用得到最基本的金融学/经济学知识。</p>
-<p>宏观经济学：这里强推一个<a href="https://www.youtube.com/watch?v=PHe0bXAIuk0&t=871s&ab_channel=PrinciplesbyRayDalio">Educational video</a>。实话说，这个30min的动画视频所带给我的「认知提升」，可能远远胜于一门本科30小时课时的宏观经济学。</p>
-<p>基本金融学：Coursera上有一个入门级的<a href="https://www.coursera.org/learn/financial-markets-global">金融学课程</a>，个人觉得质量很不错。这个课程大不必全部听完（作为一个普通人，即使不懂CAPM也不会太影响日常生活），大家自行甄别及挑选适合的topic来听就可。个人觉得诸如“health insurance的历史以及health insurance的重要性”这种topic，就非常实用且有趣。</p>
-<h4 id="消费习惯"><a href="#消费习惯" class="headerlink" title="消费习惯"></a>消费习惯</h4><p>大家都知道「开源节流」的重要性，但很多时候我们还是会被各种营销策略冲昏头脑，花掉其实并不需要花的钱。</p>
-<p>今年，在消费方面，我做出了两个比较大的努力：</p>
-<ul>
-<li>我几乎不再买花里胡哨的衣服了。买衣服基本都去MUJI/UNIQLO买些最基本款的衣服（喜欢的款式一般会同时多买几件）。我买衣服前一般会先问自己：“这件衣服在很多场合都可以穿吗？舒服吗？”如果连这两条都不能pass，我一般不会买。</li>
-<li>吃饭。疫情刚开始的时候，几乎天天在家点外卖。后来发现自己做饭其实更好，因为营养更均衡，油盐更少，也省下很多钱和不必要的外卖包装垃圾。每周我会定时买grocery，提前大概规划一整周的食谱。每天晚上我会花两三分钟想一想需要提前解冻什么食材，方便第二天做饭。我现在几乎可以把炒两盘菜的时间控制在30min以内了。</li>
-</ul>
-<p>还有另一些琐碎的消费原则：</p>
-<ul>
-<li>买比较贵的东西之前，一般会考虑一下这个东西的rate of depreciation （折价速率）。比如相机，更新换代非常快，折价速度也相对很快。慎买。</li>
-<li>能不打车就不打车了。「打车」的逻辑大部分时候是：「省时间」。可是我后来发现，我“节省”下来的时间，也不一定就能够被有效利用。所以我渐渐开始「能不打车就不打车」。</li>
-<li>关于你为什么可能需要一张<a href="https://jlcollinsnh.com/2021/08/30/chainsaws-and-credit-cards/">信用卡</a>而不是只用借记卡。</li>
-</ul>
-<h4 id="保险配置"><a href="#保险配置" class="headerlink" title="保险配置"></a>保险配置</h4><ul>
-<li>住院险和重疾险。如果你住在sg这样医疗费用非常高的城市，商业住院险是必须的。重疾险的必要程度，部分决定于你「承担风险」的能力。如果你（和你的家庭）有能力承担比较大的重疾风险（假使你长期卧病在床，家人也能够给予你长足的经济支持），那重疾险可能不是非常必要。但如果你一人在外单打独斗，且家境非常普通，那我觉得重疾险还是挺有必要的。</li>
-</ul>
-<h4 id="投资策略"><a href="#投资策略" class="headerlink" title="投资策略"></a>投资策略</h4><p>首先，如果你真的是24k gold投资小白，这里有一本非常简明易懂的保姆级理财入门书<a href="https://book.douban.com/subject/1095634/">小狗钱钱</a>。这本书会教给你，理财的重要性，以及非常基础的理财原则。</p>
-<p>至于更具体的投资策略，这个非常因人而异了。As a reference, I myself is a <em>passive</em> and <em>long-term</em> investor. Passive意即非常不想在投资方面花太多精力，long-term意即投资时间线放的比较长：我的话，可能至少十年（超过一个大的市场周期）。如果你和我的投资风格及目标差不多，那不妨看看这个资源：</p>
-<ul>
-<li>一个非常适合长期+被动投资者的<a href="https://www.youtube.com/watch?v=T71ibcZAX3I&feature=youtu.be&ab_channel=TalksatGoogle">投资策略</a></li>
-</ul>
-<p>关于投资类书籍我还有一点点拙见想说：巴菲特，彼得林奇，查理芒格等等这些投资大师的书我也多多少少看了看。说实话，这些书更适合active &amp; professional investors。作为普通人，如果不想花太多精力在投资上，又不想因为通胀而使得资产缩水，那么一本《小狗钱钱》+ 一些靠谱的基金组合，可能真的就足够了。</p>
-<h3 id="Information-Recipe"><a href="#Information-Recipe" class="headerlink" title="Information Recipe"></a>Information Recipe</h3><p>You are what you read.</p>
-<p>You are the average of the 5 persons that you spend most of your time with.</p>
-<p>我对于「信息摄入」的控制欲，远大于我对于「营养摄入」层面的控制欲。</p>
-<h4 id="剔除各种app的社交功能"><a href="#剔除各种app的社交功能" class="headerlink" title="剔除各种app的社交功能"></a>剔除各种app的社交功能</h4><p>今年，我逐渐删了Instagram（现在我的ins只用来关注一些artists，完全没有了社交功能），关了朋友圈（我的微信现在已经完全退化为一个极简通讯工具），豆瓣上的碎碎念也逐渐搬到了如flomo这样的app里面（于是乎豆瓣退化为一款书影音标记工具）。做完了这一整套「social media pruning」，我觉得非常舒适。</p>
-<p>但是这并不意味着我不在乎「社交」。我开始更加有意识的主动和我在乎的人保持连接；我的社交生活质量有了显著的提升。我的shallow contacts变少了，但我收获了更多真挚的友谊和真诚的交谈。我还开始定期制作vlog，打印和排版相册，更加认真的记录生活的美好。</p>
-<h4 id="信息摄入渠道"><a href="#信息摄入渠道" class="headerlink" title="信息摄入渠道"></a>信息摄入渠道</h4><p>今年（非常克制地）开拓了一些新的信息摄入渠道，包括RSS和Podcasts。</p>
-<p>个人最喜欢的RSS工具叫Reeder（很喜欢这个独立开发者的作品）。顺便推荐一个RSS<a href="http://www.ruanyifeng.com/blog/">订阅源</a>，分享给有点nerdy/geeky的你。</p>
-<p>个人最喜欢的Podcast——作为科研人，久听不厌的，当属Lex Fridman。每次对科技/科研有些倦怠的时候，听听Lex的播客，会觉得从事技术行业还是很美好的。</p>
-<p>其实就算是RSS或者Podcasts，都已经不是我主要的信息来源。最最值得我花时间的，是「经久不衰」「开拓认知」的信息源；比如经典的书籍，比如开拓眼界的网课，比如和对某一领域有过深耕的朋友聊天喝茶，等等。我一直相信，如果你对于这个世界的运作的「底层逻辑」有了更加清晰的认知，那么每日浮于表面的信息湍流，都不会再让你感到讶异。</p>
-<p>There is no new thing under the sun.</p>
-<h3 id="Health"><a href="#Health" class="headerlink" title="Health"></a>Health</h3><p>这个太重要了，朋友们。</p>
-<p>如果你和我一样有着一份久坐（每日坐着超过8hrs）的工作，请尽量一周进行至少三次，每次时常至少30min的中高强度的运动。否则你的<a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005">健康风险</a>，很可能已经在无限逼近酗酒/抽烟/肥胖人群。</p>
-<p>我今年还爱上了冥想打坐（其实也就是非常简单的数息，以及「一念起一念灭」的思想状态）。定期log一下自己近期的成就，人生目标的调整，心理状态的变化，也是不错的习惯。</p>
-<p>祝大家新年快乐！</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> growth </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>A Lime Tree</title>
+      <link href="/2020/07/01/lime-tree/"/>
+      <url>/2020/07/01/lime-tree/</url>
+      
+        <content type="html"><![CDATA[<img src="/images/2019_lime.jpg" alt="I drew a lime tree, and wrote her a poem." width="600"/>1 July, 2020<p>I had almost nothing back then<br>Neither blossoms nor fruits<br>My leaves were dim and my branches bare<br>Then you took me home, and we had one another.</p><p>I was happy and comfortable<br>Sitting in the nutritious, warm soil<br>No mores pests intruding my lovely siestas<br>There’s nothing else I’d ask for.</p><p>But soon I started to feel <br>A bit lethargic, fatigued<br>As if part of my youth was drained.</p><p>Still, I gave all I have<br>To permeate your house with aroma<br>And to grow the little green ones <br>Just to win your angel-like laughters<br>and delightful eyes. <br>Do you know that I love you so?</p><p>Time gone by, and there came a day<br>we had a new home.<br>I was left in the balcony, the sky was bright<br>And my body blazed with refreshed vitality.<br>I realised by then, that all I had truly needed<br>was sunshine. Eternal sunshine.</p><p>Polished, soft green leaves<br>start to crown my head<br>They gently swayed in the wind.<br>I knew that you were happy for me<br>And so was I, happy for you.<br>Because</p><p>I see you<br>kissed her in the moonlight,<br>I see you<br>stunned at the mesmerising sunset<br>I see you<br>lost yourself with the piano<br>your silhouette bathed in the warm, amber light.</p><p>Do you know that I love you so?<br>I think you do.</p>]]></content>
+      
+      
       <categories>
-        <category>stardust</category>
+          
+          <category> stardust </category>
+          
       </categories>
-      <tags>
-        <tag>growth</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> poems </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
